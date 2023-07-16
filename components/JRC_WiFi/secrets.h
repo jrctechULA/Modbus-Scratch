@@ -12,11 +12,8 @@ ________________________________________________________________________________
  * Edit with the target AP information.
 */
 
-//#define WIFI_SSID "Flia Ruzzante G"
-//#define WIFI_PASSWORD "n0pc-3xif-a4aa"
-
-#define WIFI_SSID "Fibranet 991820"
-#define WIFI_PASSWORD "wtj5T3hm"
+#define WIFI_SSID "xxxxxxxxxxxxxx"
+#define WIFI_PASSWORD "xxxxxxxxxx"
 
 /**
  * @brief SoftAP credentials information:
